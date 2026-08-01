@@ -1,0 +1,6 @@
+{
+  "name": "Summer-23",
+  "description": "Clean weather application showing city name, temperature, humidity, UV index, and air speed.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
